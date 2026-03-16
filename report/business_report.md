@@ -1,8 +1,9 @@
+![Dashboard2](../images/Dashboard2.PNG)
 # Commercial Analysis Report
 
 ## Objective
 
-The objective of this analysis is to understand the drivers of revenue and customer value in order to support commercial decision making.
+The objective of this analysis is to identify the main drivers of revenue by customer segment, product line, and time period in order to support commercial strategy and decision making.
 
 ---
 
@@ -44,7 +45,7 @@ Lower-performing product lines such as Trains contribute a very small percentage
 
 Sales show strong seasonality, with peaks in the last quarter of the year.
 
-This suggests a strong influence of holiday demand.
+This pattern may be influenced by seasonal factors such as holiday demand or end-of-year purchasing cycles.
 
 ---
 
@@ -109,6 +110,8 @@ This analysis has several limitations:
 4. Profit margins are not included, so revenue does not necessarily reflect profitability.
 
 5. Order cancellations represent a small portion of the dataset but could impact revenue estimates.
+
+6. The analysis is based on aggregated historical data and does not account for external economic conditions or competitive dynamics.
 
 ---
 
