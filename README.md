@@ -1,4 +1,4 @@
-# Auto Sales Revenue Analysis
+# Sales Performance Analysis — SQL & Power BI
 
 ## Project Overview
 
@@ -17,11 +17,10 @@ The project includes:
 
 ## Dataset
 
-The dataset used in this project contains historical sales transactions of a vehicle scale-model retailer. That dataset is made by Dhruv D in our Kaggle's page.
+The dataset used in this project contains historical sales transactions of a vehicle scale-model retailer. Dataset authored by Dhruv D on our Kaggle page.
 
 File location:
-
-data/auto_sales_dataset.xls
+data/auto_sales_data
 
 Main variables include:
 
@@ -132,7 +131,7 @@ Customers were segmented into groups such as:
 - Recent Customers
 
 File:
-sql/rfm_analysis.sql
+sql/04_rfm_analysis.sql
 
 ---
 
